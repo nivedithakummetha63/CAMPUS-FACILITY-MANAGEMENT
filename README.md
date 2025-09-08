@@ -2,7 +2,7 @@
 
 **"Smart Solutions for Seamless Campus Facility Management"**
 
-![Project Banner](./snapshots/banner.png)
+![Project Banner](./banner.png)
 
 ---
 
