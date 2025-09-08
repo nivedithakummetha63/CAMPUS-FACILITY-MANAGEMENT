@@ -82,21 +82,21 @@ This project focuses on improving campus life by providing a transparent, effici
 ## 👨‍💻 Team Members and Roles
 
 | Name               | Roll Number   | Role                            |
-|--------------------|---------------|--------------------------------|
-| N. Niveditha       | 236J1A0563    | Team Lead, Backend & Database   |
-| B. Aravind Kumar   | 236J1A0505    | User Authentication & Backend   |
-| P. Mohammad Mansoor| 236J1A0545    | Project Coordinator & Tester    |
-| P. Nireesha        | 236J1A0564    | Frontend Developer & UI/UX      |
+|--------------------|---------------|---------------------------------|
+| N. Niveditha       | 224G1A0563    | Team Lead, Backend & Database   |
+| B. Aravind Kumar   | 224G1A0505    | User Authentication & Backend   |
+| P. Mohammad Mansoor| 224G1A0545    | Project Coordinator & Tester    |
+| P. Nireesha        | 224G1A0562    | Frontend Developer & UI/UX      |
 
 ---
 
 ## 📸 Snapshots
 
-| 1.png (Registration) | 2.png (Login) | 3.png (Classroom Search) |
+|  (Registration) | (Login) | (Classroom Search) |
 |----------------------|--------------|-------------------------|
 | ![1](./snapshots/1.png) | ![2](./snapshots/2.png) | ![3](./snapshots/3.png) |
 
-| 4.png (Complaint Submission) | 5.png (Tracking Complaint) | 6.png (Admin Dashboard) |
+|  (Complaint Submission) | (Tracking Complaint) | (Admin Dashboard) |
 |-----------------------------|---------------------------|-------------------------|
 | ![4](./snapshots/4.png) | ![5](./snapshots/5.png) | ![6](./snapshots/6.png) |
 
