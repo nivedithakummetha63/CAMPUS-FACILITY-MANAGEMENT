@@ -91,3 +91,15 @@ This project focuses on improving campus life by providing a transparent, effici
 | P. Nireesha        | 236J1A0564    | Frontend Developer & UI/UX      |
 
 ---
+
+## 📸 Snapshots
+
+| 1.png (Registration) | 2.png (Login) | 3.png (Classroom Search) |
+|----------------------|--------------|-------------------------|
+| ![1](./snapshots/1.png) | ![2](./snapshots/2.png) | ![3](./snapshots/3.png) |
+
+| 4.png (Complaint Submission) | 5.png (Tracking Complaint) | 6.png (Admin Dashboard) |
+|-----------------------------|---------------------------|-------------------------|
+| ![4](./snapshots/4.png) | ![5](./snapshots/5.png) | ![6](./snapshots/6.png) |
+
+---
