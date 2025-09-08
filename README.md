@@ -6,9 +6,7 @@
 
 ---
 
-## 📌 Introduction
-
-The **Campus Facility Management System** is developed by a dedicated team led by **N. Niveditha (Team Lead)**, along with members **B. Aravind Kumar**, **P. Mohammad Mansoor**, and **P. Nireesha**. 
+## 📌 Introduction 
 
 The system streamlines the process of reporting and resolving facility-related issues within a college campus. It enables students and staff to:
 
