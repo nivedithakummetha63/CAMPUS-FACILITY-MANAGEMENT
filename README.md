@@ -83,7 +83,7 @@ This project focuses on improving campus life by providing a transparent, effici
 
 | Name               | Roll Number   | Role                            |
 |--------------------|---------------|---------------------------------|
-| N. Niveditha       | 224G1A0563    | Team Lead, Backend & Database   |
+| K. Niveditha       | 224G1A0563    | Team Lead, Backend & Database   |
 | B. Aravind Kumar   | 224G1A0505    | User Authentication & Backend   |
 | P. Mohammad Mansoor| 224G1A0545    | Project Coordinator & Tester    |
 | P. Nireesha        | 224G1A0562    | Frontend Developer & UI/UX      |
